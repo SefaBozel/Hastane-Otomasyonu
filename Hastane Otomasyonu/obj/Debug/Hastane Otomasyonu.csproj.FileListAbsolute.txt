@@ -1,0 +1,24 @@
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Giris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Hasta_Giris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Hasta_Kayit.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Asistan_Anasayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Asistan_Giris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Doktor_Anasayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Doktor_Bilgileri.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Doktor_Giris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Duyurular.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Hasta_Bilgileri.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Hasta_Anasayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Brans.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.DoktorPaneli.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu_Listesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Asistan_Bilgileri.resources
